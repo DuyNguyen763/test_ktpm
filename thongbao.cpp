@@ -1,1 +1,2 @@
 thongbao
+hello nguyen duy
